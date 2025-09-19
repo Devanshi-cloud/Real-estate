@@ -10,7 +10,7 @@ const Footer = () => {
                 {/* Logo */}
                 <Link to={'/'} className='bold-24 mb-4'>
                 <div>
-                    Diviniti<span className='text-secondary'>Realty</span>
+                    Diviniti<span className='text-secondary'>Market Lens</span>
                 </div>
                 <p className="text-white/70">Lorem ipsum dolor sit amet
                 consectetur adipisicing elit. Cum, harum! Sit porro ipsa 

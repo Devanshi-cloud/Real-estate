@@ -20,7 +20,7 @@ const Hero = () => {
                 </span> with 
                 confidence
             </h1>
-            <p>"Vidyām dadāti vinayaṁ" is our company motto, reflecting our core belief in the transformative power of knowledge and humility. As a newly established realty firm, we are dedicated to helping people with their real estate needs by providing expert guidance and personalized service. Our team understands that purchasing or selling a property is not just a transaction; it’s a significant life decision. We strive to empower our clients with the information they need to make informed choices, ensuring a smooth and rewarding experience. With integrity and respect at the forefront of our operations, we aim to build lasting relationships based on trust and satisfaction.
+            <p>"Vidyām dadāti vinayaṁ" is our company motto, reflecting our core belief in the transformative power of knowledge and humility. As a newly established Market Lens firm, we are dedicated to helping people with their real estate needs by providing expert guidance and personalized service. Our team understands that purchasing or selling a property is not just a transaction; it’s a significant life decision. We strive to empower our clients with the information they need to make informed choices, ensuring a smooth and rewarding experience. With integrity and respect at the forefront of our operations, we aim to build lasting relationships based on trust and satisfaction.
             </p>
         <div className='flex gap-3'>
         <a href="#listing" className="btn-dark flexCenter

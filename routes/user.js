@@ -8,6 +8,10 @@ router.get("/:userId/trips", async (req, res) => {
     try {
         const { userId } = req.params;
         
+        if (!userId || userId === 'undefined') {
+            return res.status(400).json({ message: "Invalid user ID" });
+        }
+        
         const trips = await Booking.find({ customerId: userId }).populate(
             "customerId hostId listingId"
         );

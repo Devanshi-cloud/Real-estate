@@ -19,7 +19,7 @@ const Header = () => {
       {/* Logo */}
       <Link to={'/'} className='bold-24'>
       <div>
-        Vinyati<span className='text-secondary'>Realty</span>
+        DXB<span className='text-secondary'>Market Lens</span>
       </div>
       </Link>
       {/* Searchbar */}
